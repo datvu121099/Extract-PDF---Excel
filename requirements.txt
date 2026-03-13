@@ -1,0 +1,5 @@
+streamlit
+pandas
+openpyxl
+llama-index-core
+llama-index-readers-file
